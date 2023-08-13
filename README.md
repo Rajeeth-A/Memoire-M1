@@ -29,7 +29,6 @@ de 0 à 9.
 ### Pré-requis
 
 Keras qui semble être un outil simple, polyvalent et puissant pour le Deep Learning et plus spécifiquement pour les réseaux de neurones convolutifs.
-
 Keras dispose également de nombreux guides de documentation et de développement.
 Documentation Keras : https://keras.io
 
